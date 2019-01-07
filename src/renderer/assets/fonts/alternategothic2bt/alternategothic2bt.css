@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "alternategothic2bt";
+    src: url("alternategothic2bt.eot"); /* IE9 */
+    src: url("alternategothic2bt.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("alternategothic2bt.woff") format("woff"), /* chrome、firefox */
+    url("alternategothic2bt.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("alternategothic2bt.svg#alternategothic2bt") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
